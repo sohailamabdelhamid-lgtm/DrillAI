@@ -3,6 +3,7 @@
 # Drill AI Intelligence Platform
 
 **Author: AI Assistant**
+## Video Demo: [https://drive.google.com/file/d/1GgjQUB6TRETFXHV3U46QMhs-AM71psba/view?usp=sharing](https://drive.google.com/file/d/1GgjQUB6TRETFXHV3U46QMhs-AM71psba/view?usp=sharing)
 
 A comprehensive AI-powered platform for oil drilling data management and analysis, built with Next.js, TypeScript, and modern web technologies.
 
